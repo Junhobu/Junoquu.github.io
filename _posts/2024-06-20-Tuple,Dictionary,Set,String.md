@@ -2,8 +2,7 @@
 
 ---
 
-![Untitled]
-<img src=_img/2024-06-20/Untitled.png>
+![Untitled](_img/2024-06-20/Untitled.png)
 
 ```python
 n_list=[80,20,20,30,60,30]
